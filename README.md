@@ -4,7 +4,7 @@
 
 I’m a Computer Science major specializing in Artificial Intelligence and Cybersecurity, passionate about building intelligent, secure, and impactful systems.
 
-Currently, I’m working on projects like a Cybersecurity Threat Detection System using Machine Learning, and am currently helping develope systems such as an Online Supermarket Database and a University Campus Navigation System.
+Currently, I’m working on projects like a Cybersecurity Threat Detection System using Machine Learning, and am currently helping develop systems such as a Code Risk Analyzer and Thyroid Cancer Detection Model.
 
 💡 My technical interests include:
 
